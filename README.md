@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vbandi
+## 👋 Hi, I’m @vbandi
 
 Here you can find repos on Hololens, my solutions to Advent of Code puzzles, and also some AI stuff.
 
